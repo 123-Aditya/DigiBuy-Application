@@ -1,2 +1,2 @@
-# DigiBuy-Application
+# DigiProducts-Application
 Microservices application built using Spring Boot

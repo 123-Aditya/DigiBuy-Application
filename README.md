@@ -59,3 +59,7 @@ As part of this project, I have covered the below implementations:
 
 
 12. Circuit Breaker using Resilience4j
+
+
+<img width="1464" alt="Screenshot 2025-02-16 at 8 07 02 PM" src="https://github.com/user-attachments/assets/d70964f3-bd35-4e7f-952a-358ec4b79392" />
+
